@@ -1,0 +1,7 @@
+c:\users\vimi\source\repos\CoderChallenge\CoderChallenge\bin\Debug\CoderChallenge.exe.config
+c:\users\vimi\source\repos\CoderChallenge\CoderChallenge\bin\Debug\CoderChallenge.exe
+c:\users\vimi\source\repos\CoderChallenge\CoderChallenge\bin\Debug\CoderChallenge.pdb
+c:\users\vimi\source\repos\CoderChallenge\CoderChallenge\obj\Debug\CoderChallenge.csprojResolveAssemblyReference.cache
+c:\users\vimi\source\repos\CoderChallenge\CoderChallenge\obj\Debug\CoderChallenge.csproj.CoreCompileInputs.cache
+c:\users\vimi\source\repos\CoderChallenge\CoderChallenge\obj\Debug\CoderChallenge.exe
+c:\users\vimi\source\repos\CoderChallenge\CoderChallenge\obj\Debug\CoderChallenge.pdb
